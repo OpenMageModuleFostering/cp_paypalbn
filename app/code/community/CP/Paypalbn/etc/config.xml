@@ -34,7 +34,7 @@
             </cp_paypalbn>
             <paypal>
                 <rewrite>
-                    <config>CP_Paypal_Model_Config</config>
+                    <config>CP_Paypalbn_Model_Config</config>
                 </rewrite>
             </paypal>
         </models>
