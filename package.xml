@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+    <name>CP_Paypalbn</name>
+    <version>0.0.1</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>PayPal Partner BN Code</summary>
+    <description>PayPal Partner BNCode extension by Commerce Pundit will help you to set partner code for paypal payment method .&lt;br /&gt;&#xD;
+&#xD;
+&lt;b&gt;Overview&lt;/b&gt;&lt;br/&gt;&#xD;
+BNCode Provided to PayPal Partners. PayPalBNCode is used for to identify transactions to PayPal.&#xD;
+BNcodes also track your PayPal payment volume, and help troubleshoot transaction issues. Every product you integrate requires its own unique BNcode.</description>
+    <notes>PayPal Partner BN Code</notes>
+    <authors><author><name>Commerce Pundit</name><user>CPExtensions</user><email>support@commercepundit.com</email></author></authors>
+    <date>2015-08-08</date>
+    <time>04:39:57</time>
+    <contents><target name="magecommunity"><dir name="CP"><dir name="Paypalbn"><dir name="Helper"><file name="Data.php" hash="e9be2e23ecbaa609b798ba2f94c464d0"/></dir><dir name="Model"><file name="Config.php" hash="eee39d43449d28c8240cf932a13fb976"/></dir><dir name="etc"><file name="adminhtml.xml" hash="5f90c49ebe7c02c1e48d05130a5044d4"/><file name="config.xml" hash="1b8891201e4f43eb12eac93c3ac28505"/><file name="system.xml" hash="f16f3538abcb2efa31ea2f6caad230bf"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="CP_Paypalbn.xml" hash="95adb377c1b5f6b69116f01bf3c39a97"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

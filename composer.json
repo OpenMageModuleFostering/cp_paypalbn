@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/CP_Paypalbn",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "PayPal Partner BN Code",
+    "authors": [
+    {
+        "name": "Commerce Pundit",
+        "email": "support@commercepundit.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
